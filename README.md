@@ -6,7 +6,11 @@
 
 ### A Libary you will need to install:
 
+.
+
 **pip install hashlib**
+
+.
 
 ## A Block Chains 🔗 
 
