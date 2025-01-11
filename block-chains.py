@@ -8,7 +8,7 @@ class Transaction:
         self.sender = sender
         self.recipient = recipient
         self.amount = amount
-
+ 
 class Block:
     def __init__(self, index, previous_hash, timestamp, transactions, proof, hash):
         self.index = index
